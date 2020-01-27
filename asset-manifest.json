@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-challenge-pages/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-challenge-pages/static/js/main.6ee8202c.chunk.js",
+    "main.js.map": "/react-challenge-pages/static/js/main.6ee8202c.chunk.js.map",
+    "runtime-main.js": "/react-challenge-pages/static/js/runtime-main.3973bb67.js",
+    "runtime-main.js.map": "/react-challenge-pages/static/js/runtime-main.3973bb67.js.map",
+    "static/css/2.c5724e5e.chunk.css": "/react-challenge-pages/static/css/2.c5724e5e.chunk.css",
+    "static/js/2.8ad60e90.chunk.js": "/react-challenge-pages/static/js/2.8ad60e90.chunk.js",
+    "static/js/2.8ad60e90.chunk.js.map": "/react-challenge-pages/static/js/2.8ad60e90.chunk.js.map",
+    "index.html": "/react-challenge-pages/index.html",
+    "precache-manifest.04af46d269a187e53bd4a9548c4806d1.js": "/react-challenge-pages/precache-manifest.04af46d269a187e53bd4a9548c4806d1.js",
+    "service-worker.js": "/react-challenge-pages/service-worker.js",
+    "static/css/2.c5724e5e.chunk.css.map": "/react-challenge-pages/static/css/2.c5724e5e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-challenge-pages/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8ad60e90.chunk.js.LICENSE": "/react-challenge-pages/static/js/2.8ad60e90.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3973bb67.js",
+    "static/css/2.c5724e5e.chunk.css",
+    "static/js/2.8ad60e90.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6ee8202c.chunk.js"
+  ]
+}
